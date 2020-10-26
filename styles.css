@@ -1,0 +1,154 @@
+
+
+header {
+margin-top: 15px;
+margin-left: 15px;
+}
+
+body {
+}
+
+#main-article {
+}
+
+.main-section {
+  text-align: justify;
+  margin: 15px;
+}
+
+#pokemon-pic {
+  height: 250px;
+  width: 400px;
+  float: left;
+  padding: 5px;
+}
+
+#overwatch-pic {
+  height: 250px;
+  width: 400px;
+  float: left;
+  padding: 5px;
+}
+
+#sonic-pic {
+  height: 250px;
+  width: 400px;
+  float: left;
+  padding: 5px;
+}
+
+.main-header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: 700;
+  font-variant: small-caps;
+  margin-bottom: 5px;
+  text-align: justify;
+}
+
+.main-paragraph {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
+
+#celeste-article {
+  background: #F1B9F5;
+  margin: 15px;
+}
+
+#celeste-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#celeste-header {
+  font-family:  Verdana, Geneva, sans-serif;
+  font-size: 30px;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: 700;
+  font-variant: small-caps;
+}
+
+#celeste-text {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 20px;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  color: #FF1616;
+  font-weight: 400;
+}
+
+#transistor-article {
+  background: #42B9B6;
+  margin: 15px;
+}
+
+#transistor-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#transistor-header {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 30px;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: 700;
+  font-variant: small-caps;
+}
+
+#transistor-text {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  color: #E6E904;
+  font-weight: 400;
+}
+
+#undertale-article {
+  background: #000000;
+  margin: 15px;
+}
+
+#undertale-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#undertale-header {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 30px;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  color: #FFFFFF;
+  font-weight: 700;
+  font-variant: small-caps;
+}
+
+#undertale-text {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  color: #FFFFFF;
+  font-weight: 400;
+}
+
+footer{
+
+}
